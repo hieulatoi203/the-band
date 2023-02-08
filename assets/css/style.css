@@ -152,11 +152,6 @@ html {
     margin: 15px;
     font-weight: bolder;
 }
-
-
-#main{
-
-}
 #header{
     top: 0;
     z-index: 1;
@@ -316,9 +311,7 @@ html {
 .map-section img{
     width: 100%;
 }
-#content{
 
-}
 #footer{
     padding: 64px 16px;
     text-align: center;
